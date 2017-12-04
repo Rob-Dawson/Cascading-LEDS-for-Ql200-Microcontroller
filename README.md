@@ -1,4 +1,4 @@
-# Cascading-LEDS-for-Ql200-Microcontroler
+# Cascading-LEDS-for-Ql200-Microcontroller
 
 Functionality
 -------------
